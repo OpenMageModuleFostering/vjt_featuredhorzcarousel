@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>vjt_featuredhorzcarousel</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL V3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Featured Product Horizontal Carousel</summary>
+    <description>Featured Product Horizontal Carousel by VJ Templates</description>
+    <notes>Magento CE 1.5 - 1.7</notes>
+    <authors><author><name>VJ Templates</name><user>vjtemplates</user><email>vjt@vjtemplates.com</email></author></authors>
+    <date>2013-09-16</date>
+    <time>00:05:32</time>
+    <contents><target name="magecommunity"><dir name="VJTemplates"><dir name="FeaturedHorzCarousel"><dir name="Block"><dir name="Category"><file name="View.php" hash="1eaf2ac62243333a7f6266ab330f1748"/></dir><dir name="Product"><file name="Featured.php" hash="634d8052997878e5e84d95ddb8f2711a"/></dir></dir><dir name="Helper"><file name="Data.php" hash="787549c8a1f96fba42198e1a460ffd95"/></dir><dir name="controllers"><file name="IndexController.php" hash="4288d0f4459e0a3511a6b2c3a478e1d4"/></dir><dir name="etc"><file name="config.xml" hash="3639e069af4a21623854ebb8c8655542"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="vjtemplates"><file name="featuredhorzcarousel.xml" hash="150dbbaaf0eb0b345874eaaa433636a4"/></dir></dir><dir name="template"><dir name="vjtemplates"><dir name="catalog"><dir name="product"><file name="featured-horz-carousel.phtml" hash="cd66c8310fa830518a9b79717bcf21bf"/></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="VJTemplates_FeaturedHorzCarousel.xml" hash="3c8d122405db226e8d007f83be7793bc"/></dir></target><target name="mage"><dir name="js"><dir name="jquery"><file name="jquery-1.6.4.min.js" hash="0bd074f6e49da04536b3ce289e3f7448"/></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="vjtemplates"><dir name="css"><file name="featured-horz-carousel.css" hash="a2652065bbacae57ca91e9862d3b0cd6"/></dir><dir name="images"><file name="next-horizontal.png" hash="fa5bfea6029803d4382e257f3e407269"/><file name="prev-horizontal.png" hash="e9e56e2851122f2c3322e3f36841a66b"/></dir><dir name="js"><file name="featured-carousel.js" hash="c3a2be614e256430e178d25d2ddb21ce"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

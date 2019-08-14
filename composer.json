@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/vjt_featuredhorzcarousel",
+    "type": "magento-module",
+    "license": "OSL-V3.0",
+    "homepage": "",
+    "description": "Featured Product Horizontal Carousel",
+    "authors": [
+    {
+        "name": "VJ Templates",
+        "email": "vjt@vjtemplates.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
